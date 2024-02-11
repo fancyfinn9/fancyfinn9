@@ -1,5 +1,27 @@
-**Hi, I’m fancyfinn9!**
-- I’m obsessed with statistics and chess. And Pokémon.
-- I’m currently building a program that allows users on Mastodon to use custom emojis from other instances!
-- I’m looking to collaborate on anything that's in Python and has to do with either chess, football, or Pokémon :D
-- If you want to reach me, fire me a message on Discord at @fancyfinn9
+<h1 align="center">Hi 👋, I'm fancyfinn9</h1>
+<h3 align="center">A passionate developer from Ireland</h3>
+
+- 🔭 I’m currently working on [PIXIE](https://github.com/fancyfinn9/pixie), a program for Mastodon
+
+- 🌱 I’m currently learning **to master GUIs in Python**
+
+- 👯 I’m looking to collaborate on **anything that uses Python!**
+
+- 📫 How to reach me **@fancyfinn9 on Discord**
+
+- ⚡ Fun fact **I love Pokémon!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://donphan.social/@fancyfinn9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fancyfinn9" height="30" width="40" /></a>
+<a href="https://instagram.com/fancyfinn9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fancyfinn9" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fancyfinn9&show_icons=true&locale=en&layout=compact" alt="fancyfinn9" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fancyfinn9&show_icons=true&locale=en" alt="fancyfinn9" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fancyfinn9&" alt="fancyfinn9" /></p>
