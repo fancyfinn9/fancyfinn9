@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm fancyfinn9</h1>
 <h3 align="center">A passionate developer from Ireland</h3>
 
-- 🔭 I’m currently working on [PIXIE](https://github.com/fancyfinn9/pixie), a program for Mastodon
+- 🔭 I’m currently working on **miscellanious [Minetest](https://minetest.net/) mods**
 
 - 🌱 I’m currently learning **to master GUIs in Python**
 
 - 👯 I’m looking to collaborate on **anything that uses Python!**
 
-- 📫 How to reach me **@fancyfinn9 on Discord**
+- 📫 How to reach me: **@fancyfinn9 on Discord**
 
-- ⚡ Fun fact **I love Pokémon!**
+- ⚡ Fun fact: **I love Pokémon!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
