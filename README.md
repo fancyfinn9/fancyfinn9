@@ -7,9 +7,9 @@ Developer and musician
 *   🌍  I'm based in Ireland
 *   🖥️  See my portfolio at [my website](http://fancyfinn9.github.io)
 *   ✉️  You can contact me at [fancyfinn9@gmail.com](mailto:fancyfinn9@gmail.com)
-*   🚀  I'm currently working on [JMA Capture the Flag](http://jmactf.nicepage.io/)
+*   🚀  I'm currently working on [JMA Capture the Flag](http://jmactf.nicepage.io/) and random projects
 *   🧠  I'm learning advanced Lua
-*   🤝  I'm open to collaborating on any interesting projects (as long as its in Python or Lua)
+*   🤝  I'm open to collaborating on any interesting projects
 *   ⚡  ...
     
   ### Skills 
