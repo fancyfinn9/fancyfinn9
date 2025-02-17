@@ -6,17 +6,13 @@
 
 <div align="center">
   <a href="https://discordapp.com/users/955575589744545882" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
   <a href="mailto:fancyfinn9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
   <a href="https://www.youtube.com/@fancyfinn9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
   <a href="https://donphan.social/@fancyfinn9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=563ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mastodon logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=563ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mastodon logo"  /></a>
 </div>
 
 ###
