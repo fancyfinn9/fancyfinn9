@@ -22,7 +22,6 @@
 
 ---
 
-<p align="left">This is where most people would show off all the languages, frameworks and whatnot that they use. I don't see the point in doing all of that, if there are much better ways to show people what you're capable of. So instead, here I'll put some of my projects that I'm most proud of.</p>
+<p align="left">I have no idea what to put here so I'll try out a few different things.</p>
 
-[please wait until I figure out the CSS lol]
-
+![fancyfinn9's GitHub stats](https://github-readme-stats.vercel.app/api?username=fancyfinn9)
