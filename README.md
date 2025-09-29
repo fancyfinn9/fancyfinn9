@@ -15,13 +15,12 @@
     <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=563ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mastodon logo"  /></a>
 </div>
 
+<div align="center">
+  <h3>I've moved to Gitlab:</h3>
+  <a href="https://gitlab.com/fancyfinn9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gitlab&logo=gitlab&label=&color=fca326&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  /></a>
+
 ###
 
 
 <p align="left">I'm a developer and musician from Ireland.<br><br>- 🔭 I’m working on <a href="https://ctf.jma-sig.de">JMA Minetest</a>, a Minetest server network.<br>- 📚 I'm currently learning a variety of new topics including advanced Minetest modding, & grade 8 trumpet.<br>- ⚡ In my free time I arrange pieces for bands, help the community with various tech-related jobs and read about cool frameworks.</p>
-
----
-
-<p align="left">I have no idea what to put here so I'll try out a few different things.</p>
-
-![fancyfinn9's GitHub stats](https://github-readme-stats.vercel.app/api?username=fancyfinn9)
