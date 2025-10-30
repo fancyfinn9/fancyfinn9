@@ -16,7 +16,6 @@
 </div>
 
 <div align="center">
-  <h3>I've moved to Gitlab:</h3>
   <a href="https://gitlab.com/fancyfinn9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gitlab&logo=gitlab&label=&color=fca326&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  /></a>
 
